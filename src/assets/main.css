@@ -1,0 +1,15 @@
+@import "./base.css";
+
+#app {
+  color: #fff;
+}
+
+a.nav-link {
+  color: #fff;
+}
+#heros {
+  background: url("@/assets/img/pulau-auki.png") center/cover no-repeat;
+}
+footer a:link {
+  text-decoration: none;
+}
